@@ -15,3 +15,5 @@
                 Profesor: Mario García Valdez
 
         14 de marzo de 2023, Tijuana, Baja California
+
+[LINK](./img/ar.md)
