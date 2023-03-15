@@ -16,3 +16,17 @@ Smalltalk es el primer lenguaje de programación gráfico orientado a objetos, d
 Sus orígenes se encuentran en investigaciones realizadas por Alan Kay, Dan Ingalls y Ted Kaehler, entre otros, en Palo Alto, en el Xerox PARC, y su objetivo principal era el de crear un sistema que permitiese expandir la creatividad de sus usuarios, proporcionando un entorno para la experimentación, creación e investigación.
 
 Los objetos de Smalltalk presentan características comunes: tienen memoria propia, poseen capacidad para comunicarse con otros objetos, poseen capacidad de heredar características de objetos ancestros y tienen capacidad de procesamiento.
+
+![alt text](https://github.com/Cheshire03/ProgOO/blob/main/img/alan-kay-dan-ingalls-david-c-smith.jpg "Fundadores")
+
+### Define con tus palabras el concepto de abstracción, ¿Por qué se considera fundamental en programación? 
+
+El concepto de abstracción viene relacionado con la *encapsulación*, en que mientras la encapsulación mantiene privados los atributos que el usuaio no ocupa ver o entender. Por lo que la abstracción es el siguiente paso lógico; el usuario interactúa con métodos simples, los cuales hacen procesos complicados en el fondo, para modificar los atributos de los objetos y su relación con otros objetos.
+
+Considero es fundamental para la programación, ya que el usuario para el que están dirigidos los programas, no va a ser un experto en programación, ni lo ocupa ser. Por lo que la abstracción sirve para facilitar al usuario final el uso de las herramientas que creamos, sin necesidad de saber su funcionamiento.
+
+### Explica el concepto de encapsulamiento, busca dos imágenes que te ayuden a describir el concepto, una que tenga algún sistema sin encapsulamiento y otra donde sí lo tenga. Menciona porque es importante y qué problemas puede evitar.
+
+La encapsulación contiene toda la información importante de un objeto dentro del mismo y solo expone la información seleccionada al mundo exterior. 
+Esta propiedad permite asegurar que la información de un objeto esté oculta para el mundo exterior, agrupando en una Clase las características o atributos que cuentan con un acceso privado, y los comportamientos o métodos que presentan un acceso público.
+
