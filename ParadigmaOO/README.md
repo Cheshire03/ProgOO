@@ -21,6 +21,7 @@ Sus orígenes se encuentran en investigaciones realizadas por Alan Kay, Dan Inga
 
 El concepto de abstracción viene relacionado con la *encapsulación*, en que mientras la encapsulación mantiene privados los atributos que el usuaio no ocupa ver o entender. Por lo que la abstracción es el siguiente paso lógico; el usuario interactúa con métodos simples, los cuales hacen procesos complicados en el fondo, para modificar los atributos de los objetos y su relación con otros objetos.
 
+[arpeta con imagenes](https://github.com/Cheshire03/ProgOO/tree/main/img)
 Considero es fundamental para la programación, ya que el usuario para el que están dirigidos los programas, no va a ser un experto en programación, ni lo ocupa ser. Por lo que la abstracción sirve para facilitar al usuario final el uso de las herramientas que creamos, sin necesidad de saber su funcionamiento.
 
 ### Explica el concepto de encapsulamiento, busca dos imágenes que te ayuden a describir el concepto, una que tenga algún sistema sin encapsulamiento y otra donde sí lo tenga. Menciona porque es importante y qué problemas puede evitar.
@@ -37,3 +38,13 @@ La encapsulación de cada objeto es responsable de su propia información y de s
 ### Describe con tus palabras el concepto de herencia e ilustra el concepto con imágenes.
 
 Básicamente, el concepto de herencia se refiere a cuando creas una clase superior, la cual va a tener subclases las cuales heredarán los atributos de la clase superior, pero pueden tener sus propios métodos y atributos individuales de todos modos. Por ejemplo, un carro y una moto funcionan de manera diferente, pero ambos son vehículos; y comparten ciertas características como: el motor, llantas, luces, etc.
+
+![alt text](https://github.com/Cheshire03/ProgOO/blob/main/img/94489697-9910-4c8e-ade7-ee3fa996362f.jpg "herencia")
+
+[Carpeta con imágenes](https://github.com/Cheshire03/ProgOO/tree/main/img)
+
+## Referencias
+
+https://proyectoidis.org/smalltalk/
+
+https://profile.es/blog/que-es-la-programacion-orientada-a-objetos/
