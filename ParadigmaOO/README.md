@@ -21,7 +21,6 @@ Sus orígenes se encuentran en investigaciones realizadas por Alan Kay, Dan Inga
 
 El concepto de abstracción viene relacionado con la *encapsulación*, en que mientras la encapsulación mantiene privados los atributos que el usuaio no ocupa ver o entender. Por lo que la abstracción es el siguiente paso lógico; el usuario interactúa con métodos simples, los cuales hacen procesos complicados en el fondo, para modificar los atributos de los objetos y su relación con otros objetos.
 
-[arpeta con imagenes](https://github.com/Cheshire03/ProgOO/tree/main/img)
 Considero es fundamental para la programación, ya que el usuario para el que están dirigidos los programas, no va a ser un experto en programación, ni lo ocupa ser. Por lo que la abstracción sirve para facilitar al usuario final el uso de las herramientas que creamos, sin necesidad de saber su funcionamiento.
 
 ### Explica el concepto de encapsulamiento, busca dos imágenes que te ayuden a describir el concepto, una que tenga algún sistema sin encapsulamiento y otra donde sí lo tenga. Menciona porque es importante y qué problemas puede evitar.
