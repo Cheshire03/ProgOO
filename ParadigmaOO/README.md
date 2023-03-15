@@ -15,8 +15,6 @@ Smalltalk es el primer lenguaje de programación gráfico orientado a objetos, d
 
 Sus orígenes se encuentran en investigaciones realizadas por Alan Kay, Dan Ingalls y Ted Kaehler, entre otros, en Palo Alto, en el Xerox PARC, y su objetivo principal era el de crear un sistema que permitiese expandir la creatividad de sus usuarios, proporcionando un entorno para la experimentación, creación e investigación.
 
-Los objetos de Smalltalk presentan características comunes: tienen memoria propia, poseen capacidad para comunicarse con otros objetos, poseen capacidad de heredar características de objetos ancestros y tienen capacidad de procesamiento.
-
 ![alt text](https://github.com/Cheshire03/ProgOO/blob/main/img/alan-kay-dan-ingalls-david-c-smith.jpg "Fundadores")
 
 ### Define con tus palabras el concepto de abstracción, ¿Por qué se considera fundamental en programación? 
@@ -30,3 +28,12 @@ Considero es fundamental para la programación, ya que el usuario para el que es
 La encapsulación contiene toda la información importante de un objeto dentro del mismo y solo expone la información seleccionada al mundo exterior. 
 Esta propiedad permite asegurar que la información de un objeto esté oculta para el mundo exterior, agrupando en una Clase las características o atributos que cuentan con un acceso privado, y los comportamientos o métodos que presentan un acceso público.
 
+![alt text](https://github.com/Cheshire03/ProgOO/blob/main/img/abstracion.jpg "abstracción")
+
+Como ejemplo, en la imagen de arriba, la persona de la izquierda solo puede ver al gato como una bola de pelos que acariciar; mientras que la persona de la derecha, que es veterinaria, conocer toda la estructura interna del gato. La persona de la izquierda representa al usuario y la de la derecha al programador.
+
+La encapsulación de cada objeto es responsable de su propia información y de su propio estado. La única forma en la que este se puede modificar es mediante los propios métodos del objeto. Por lo tanto, los atributos internos de un objeto deberían ser inaccesibles desde fuera, pudiéndose modificar sólo llamando a las funciones correspondientes. Con esto conseguimos mantener el estado a salvo de usos indebidos o que puedan resultar inesperados. 
+
+### Describe con tus palabras el concepto de herencia e ilustra el concepto con imágenes.
+
+Básicamente, el concepto de herencia se refiere a cuando creas una clase superior, la cual va a tener subclases las cuales heredarán los atributos de la clase superior, pero pueden tener sus propios métodos y atributos individuales de todos modos. Por ejemplo, un carro y una moto funcionan de manera diferente, pero ambos son vehículos; y comparten ciertas características como: el motor, llantas, luces, etc.
