@@ -12,7 +12,9 @@
   
   1.5. [Herencia](https://github.com/Cheshire03/ProgOO/edit/main/ParadigmaOO/README.md#describe-con-tus-palabras-el-concepto-de-herencia-e-ilustra-el-concepto-con-im%C3%A1genes)
   
-  2. [UML]
+  2. [UML](https://github.com/Cheshire03/ProgOO/edit/main/ParadigmaOO/README.md#uml)
+
+  2.1. [UML de máquina](https://github.com/Cheshire03/ProgOO/edit/main/ParadigmaOO/README.md#modelo-uml-de-m%C3%A1quina-expendedora)
 
 
 # Paradigma
@@ -90,6 +92,10 @@ Lucidchart: Software de gráficos basado en web
 
 Microsoft Visio: Software propietario de gráficos vectoriales y gráficos
 IBM Rational Rhapsody	Entorno de desarrollo gráfico para el desarrollo y validación de software basado en modelos
+
+## Modelo UML de Máquina Expendedora
+
+![alt text](https://github.com/Cheshire03/ProgOO/blob/main/img/Maquina%20expendedora.drawio.png "Máquina Expendedora")
 
 [Carpeta con imágenes](https://github.com/Cheshire03/ProgOO/tree/main/img)
 
