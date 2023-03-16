@@ -34,7 +34,7 @@ Smalltalk es el primer lenguaje de programación gráfico orientado a objetos, d
 
 Sus orígenes se encuentran en investigaciones realizadas por Alan Kay, Dan Ingalls y Ted Kaehler, entre otros, en Palo Alto, en el Xerox PARC, y su objetivo principal era el de crear un sistema que permitiese expandir la creatividad de sus usuarios, proporcionando un entorno para la experimentación, creación e investigación.
 
-![alt text](https://github.com/Cheshire03/ProgOO/blob/main/img/alan-kay-dan-ingalls-david-c-smith.jpg "Fundadores")
+![alt text](../img/alan-kay-dan-ingalls-david-c-smith.jpg "Fundadores")
 
 ### Define con tus palabras el concepto de abstracción, ¿Por qué se considera fundamental en programación? 
 
@@ -47,7 +47,7 @@ Considero es fundamental para la programación, ya que el usuario para el que es
 La encapsulación contiene toda la información importante de un objeto dentro del mismo y solo expone la información seleccionada al mundo exterior. 
 Esta propiedad permite asegurar que la información de un objeto esté oculta para el mundo exterior, agrupando en una Clase las características o atributos que cuentan con un acceso privado, y los comportamientos o métodos que presentan un acceso público.
 
-![alt text](https://github.com/Cheshire03/ProgOO/blob/main/img/abstracion.jpg "abstracción")
+![alt text](../img/abstracion.jpg "abstracción")
 
 Como ejemplo, en la imagen de arriba, la persona de la izquierda solo puede ver al gato como una bola de pelos que acariciar; mientras que la persona de la derecha, que es veterinaria, conocer toda la estructura interna del gato. La persona de la izquierda representa al usuario y la de la derecha al programador.
 
@@ -95,7 +95,7 @@ IBM Rational Rhapsody	Entorno de desarrollo gráfico para el desarrollo y valida
 
 ## Modelo UML de Máquina Expendedora
 
-![alt text](https://github.com/Cheshire03/ProgOO/blob/main/img/Maquina%20expendedora.drawio.png "Máquina Expendedora")
+![alt text](../img/Maquina%20expendedora.drawio.png "Máquina Expendedora")
 
 [Carpeta con imágenes](https://github.com/Cheshire03/ProgOO/tree/main/img)
 
