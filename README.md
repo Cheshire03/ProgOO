@@ -18,5 +18,4 @@
 
 # TAREAS
 
-[Tarea 1](
-[link](./img/ar.md)
+[Tarea 1](https://github.com/Cheshire03/ProgOO/tree/main/ParadigmaOO)
