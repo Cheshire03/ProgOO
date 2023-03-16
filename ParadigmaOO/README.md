@@ -1,20 +1,20 @@
 # Tarea 1
 
-1. [Paradigma](https://github.com/Cheshire03/ProgOO/edit/main/ParadigmaOO/README.md#paradigma)
+1. [Paradigma](https://github.com/Cheshire03/ProgOO/tree/main/ParadigmaOO#paradigma)
 
-  1.1. [Definción de Paradigma](https://github.com/Cheshire03/ProgOO/edit/main/ParadigmaOO/README.md#definici%C3%B3n-de-paradigma-en-el-contexto-de-lenguajes-de-programaci%C3%B3n)
+  1.1. [Definción de Paradigma](https://github.com/Cheshire03/ProgOO/tree/main/ParadigmaOO#definici%C3%B3n-de-paradigma-en-el-contexto-de-lenguajes-de-programaci%C3%B3n)
 
-  1.2. [Programación orientada a objetos](https://github.com/Cheshire03/ProgOO/edit/main/ParadigmaOO/README.md#definici%C3%B3n-de-programaci%C3%B3n-orientada-a-objetos-cu%C3%A1l-fue-el-primer-lenguaje-orientado-a-objetos-quienes-y-en-d%C3%B3nde-lo-propusieron)
+  1.2. [Programación orientada a objetos](https://github.com/Cheshire03/ProgOO/tree/main/ParadigmaOO#definici%C3%B3n-de-programaci%C3%B3n-orientada-a-objetos-cu%C3%A1l-fue-el-primer-lenguaje-orientado-a-objetos-quienes-y-en-d%C3%B3nde-lo-propusieron)
   
-  1.3. [Abstracción](https://github.com/Cheshire03/ProgOO/edit/main/ParadigmaOO/README.md#define-con-tus-palabras-el-concepto-de-abstracci%C3%B3n-por-qu%C3%A9-se-considera-fundamental-en-programaci%C3%B3n)
+  1.3. [Abstracción](https://github.com/Cheshire03/ProgOO/tree/main/ParadigmaOO#define-con-tus-palabras-el-concepto-de-abstracci%C3%B3n-por-qu%C3%A9-se-considera-fundamental-en-programaci%C3%B3n)
   
-  1.4. [Encapsulamiento](https://github.com/Cheshire03/ProgOO/edit/main/ParadigmaOO/README.md#explica-el-concepto-de-encapsulamiento-busca-dos-im%C3%A1genes-que-te-ayuden-a-describir-el-concepto-una-que-tenga-alg%C3%BAn-sistema-sin-encapsulamiento-y-otra-donde-s%C3%AD-lo-tenga-menciona-porque-es-importante-y-qu%C3%A9-problemas-puede-evitar)
+  1.4. [Encapsulamiento](https://github.com/Cheshire03/ProgOO/tree/main/ParadigmaOO#explica-el-concepto-de-encapsulamiento-busca-dos-im%C3%A1genes-que-te-ayuden-a-describir-el-concepto-una-que-tenga-alg%C3%BAn-sistema-sin-encapsulamiento-y-otra-donde-s%C3%AD-lo-tenga-menciona-porque-es-importante-y-qu%C3%A9-problemas-puede-evitar)
   
-  1.5. [Herencia](https://github.com/Cheshire03/ProgOO/edit/main/ParadigmaOO/README.md#describe-con-tus-palabras-el-concepto-de-herencia-e-ilustra-el-concepto-con-im%C3%A1genes)
+  1.5. [Herencia](https://github.com/Cheshire03/ProgOO/tree/main/ParadigmaOO#describe-con-tus-palabras-el-concepto-de-herencia-e-ilustra-el-concepto-con-im%C3%A1genes)
   
-  2. [UML](https://github.com/Cheshire03/ProgOO/edit/main/ParadigmaOO/README.md#uml)
+  2. [UML](https://github.com/Cheshire03/ProgOO/tree/main/ParadigmaOO#uml)
 
-  2.1. [UML de máquina](https://github.com/Cheshire03/ProgOO/edit/main/ParadigmaOO/README.md#modelo-uml-de-m%C3%A1quina-expendedora)
+  2.1. [UML de máquina](https://github.com/Cheshire03/ProgOO/tree/main/ParadigmaOO#modelo-uml-de-m%C3%A1quina-expendedora)
 
 
 # Paradigma
