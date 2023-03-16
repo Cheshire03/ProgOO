@@ -16,4 +16,7 @@
 
         14 de marzo de 2023, Tijuana, Baja California
 
-[LINK](./img/ar.md)
+# TAREAS
+
+[Tarea 1](
+[link](./img/ar.md)
